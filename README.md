@@ -8,3 +8,7 @@ Unity 3D无尽小车项目基本点
 - 使用声音和粒子特效增强游戏效果，可以制作简单粒子特效。
 
 该项目主要学习内容在于代码生产地形地图的运用，资源包已经扒好了
+
+![Demo](./DEMO/Screenshot.png)
+
+视频Demo在DEMO文件夹下 [Game Demo](./DEMO/3DRaceCar%20-%20Menu%20-%20Windows,%20Mac,%20Linux%20-%20Unity%202022.3.27f1%20_DX11_%202024-05-20%2021-33-40.mp4)
